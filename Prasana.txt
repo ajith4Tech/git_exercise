@@ -1,0 +1,11 @@
+git clone => Used to download (clone) a remote repository into your local system, creating a working copy.
+new-item => Used to add the new file in the folder.
+git add . => Used to add the n number of file witch in the directory.
+git config => Used to configure Git settings such as username, email, default editor, etc.
+git init => Used to initialize a new Git repository in the current folder, making it ready for version control.
+git status => Displays the state of the working directory and staging area (shows modified, staged, or untracked files).
+git checkout => Used to switch between branches or restore files to a previous version/commit.
+git commit -m "message" => Records changes in the local repository with a message describing what was changed.
+git remote -v => Shows the list of remote repositories connected to your project, along with their fetch/push URLs.
+git branch => Lists all branches in your repository. You can also create, rename, or delete branches with this command.
+git push origin master => Uploads commits from your local master branch to the remote repository named origin (usually GitHub).
